@@ -1,1 +1,1 @@
-# Github-PGP-Tests
+# Github-GPG-Tests
